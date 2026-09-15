@@ -1,7 +1,7 @@
 
 # 🎬 Projeto Final: StreamFlow — 2º e 3º Bimestre
 
-Esse projeto foi desenvolvido como prática da disciplina de **Banco de Dados II**, simulando uma plataforma de streaming chamada **StreamFlow**.
+Esse projeto foi desenvolvido como prática da disciplina de **Banco de Dados II**, simulando uma plataforma de streaming chamada **StreamFlow**
 
 O objetivo foi desenvolver a estrutura de um banco de dados para uma plataforma de streaming, incluindo o cadastro de clientes, planos, assinaturas, perfis, vídeos, produtoras e o histórico de reprodução.
 
